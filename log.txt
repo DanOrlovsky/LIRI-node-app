@@ -1,0 +1,180 @@
+Logged Retrieve Tweets activity on Tue Oct 31 2017 07:38:24 GMT-0400 (Eastern Daylight Time)
+
+
+Here are your latest tweets!
+
+
+		Mon Oct 30 23:26:14 +0000 2017
+		Now this is happening - showing my wife an example of a node.js app
+
+
+		Mon Oct 30 01:30:54 +0000 2017
+		Tweeting again to test the app.
+
+
+		Fri Oct 27 19:00:07 +0000 2017
+		Building an app that needs to grab twitter stuff.  So here's a tweet.
+
+
+
+Logged Retrieve Tweets activity on Tue Oct 31 2017 17:56:14 GMT-0400 (Eastern Daylight Time)
+
+
+Here are your latest tweets!
+
+
+		Mon Oct 30 23:26:14 +0000 2017
+		Now this is happening - showing my wife an example of a node.js app
+
+
+		Mon Oct 30 01:30:54 +0000 2017
+		Tweeting again to test the app.
+
+
+		Fri Oct 27 19:00:07 +0000 2017
+		Building an app that needs to grab twitter stuff.  So here's a tweet.
+
+
+
+Logged Retrieve Movie activity on Tue Oct 31 2017 17:57:46 GMT-0400 (Eastern Daylight Time)
+
+
+Here is information on that movie!
+
+
+                Title: The Matrix
+                Rated: R
+                Year: 1999
+                IMDB Rating: 8.7
+                Rotten Tomatoes: 87%
+                Filmed In: USA
+                Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+                Language: English
+            
+
+Logged Retrieve Tweets activity on Tue Oct 31 2017 18:00:00 GMT-0400 (Eastern Daylight Time)
+
+
+Here are your latest tweets!
+
+
+		Mon Oct 30 23:26:14 +0000 2017
+		Now this is happening - showing my wife an example of a node.js app
+
+
+		Mon Oct 30 01:30:54 +0000 2017
+		Tweeting again to test the app.
+
+
+		Fri Oct 27 19:00:07 +0000 2017
+		Building an app that needs to grab twitter stuff.  So here's a tweet.
+
+
+
+Logged Retrieve Tweets activity on Tue Oct 31 2017 18:31:24 GMT-0400 (Eastern Daylight Time)
+
+
+Here are your latest tweets!
+
+
+		Mon Oct 30 23:26:14 +0000 2017
+		Now this is happening - showing my wife an example of a node.js app
+
+
+		Mon Oct 30 01:30:54 +0000 2017
+		Tweeting again to test the app.
+
+
+		Fri Oct 27 19:00:07 +0000 2017
+		Building an app that needs to grab twitter stuff.  So here's a tweet.
+
+
+
+Logged Retrieve Songs activity on Sat Nov 04 2017 08:57:50 GMT-0400 (Eastern Daylight Time)
+
+
+Here is information on that song!
+
+
+
+            Artist: Backstreet Boys
+            Track: I Want It That Way
+            Album: The Hits--Chapter One
+            Popularity: 75
+            Track Number: 1
+        
+
+
+Logged Retrieve Tweets activity on Sat Nov 04 2017 08:58:04 GMT-0400 (Eastern Daylight Time)
+
+
+Here are your latest tweets!
+
+
+		Mon Oct 30 23:26:14 +0000 2017
+		Now this is happening - showing my wife an example of a node.js app
+
+
+		Mon Oct 30 01:30:54 +0000 2017
+		Tweeting again to test the app.
+
+
+		Fri Oct 27 19:00:07 +0000 2017
+		Building an app that needs to grab twitter stuff.  So here's a tweet.
+
+
+
+Logged Retrieve Tweets activity on Sat Nov 04 2017 09:04:00 GMT-0400 (Eastern Daylight Time)
+
+
+Here are your latest tweets!
+
+
+		Mon Oct 30 23:26:14 +0000 2017
+		Now this is happening - showing my wife an example of a node.js app
+
+
+		Mon Oct 30 01:30:54 +0000 2017
+		Tweeting again to test the app.
+
+
+		Fri Oct 27 19:00:07 +0000 2017
+		Building an app that needs to grab twitter stuff.  So here's a tweet.
+
+
+
+Logged Display Help activity on Sat Nov 04 2017 09:04:29 GMT-0400 (Eastern Daylight Time)
+Nothing to show
+
+Logged Retrieve Movie activity on Sat Nov 04 2017 09:13:56 GMT-0400 (Eastern Daylight Time)
+
+
+Here is information on that movie!
+
+
+                Title: Matrix
+                Rated: N/A
+                Year: 1993–
+                IMDB Rating: 8.4
+                Rotten Tomatoes: 
+                Filmed In: Canada
+                Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+                Language: English
+            
+
+Logged Retrieve Movie activity on Sat Nov 04 2017 09:15:10 GMT-0400 (Eastern Daylight Time)
+
+
+Here is information on that movie!
+
+
+                Title: Fried Green Tomatoes
+                Rated: PG-13
+                Year: 1991
+                IMDB Rating: 7.7
+                Rotten Tomatoes: 73%
+                Filmed In: USA
+                Plot: A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.
+                Language: English
+            
+
