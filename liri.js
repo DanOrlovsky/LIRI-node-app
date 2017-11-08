@@ -144,9 +144,17 @@ function checkOptions(cmd) {
             displayTweets();
             break;
         case 'movie-this':
+            if(searchTitle == "") {
+                displayHelp();
+                process.exit();
+            }
             displayMovieResults(searchTitle);
             break;
-        case 'spotify-this-song':            
+        case 'spotify-this-song':
+            if(searchTitle == "") {
+                displayHelp();
+                process.exit();
+            }            
             displaySpotifyResults(searchTitle);
         // If we make it here, display help
         default:
