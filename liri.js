@@ -156,6 +156,7 @@ function checkOptions(cmd) {
                 process.exit();
             }            
             displaySpotifyResults(searchTitle);
+            break;
         // If we make it here, display help
         default:
             displayHelp();

@@ -178,3 +178,60 @@ Here is information on that movie!
                 Language: English
             
 
+Logged Display Help activity on Tue Nov 07 2017 19:56:31 GMT-0500 (Eastern Standard Time)
+Nothing to show
+
+Logged Retrieve Songs activity on Tue Nov 07 2017 19:57:48 GMT-0500 (Eastern Standard Time)
+
+
+Here is information on that song!
+
+
+
+            Artist: Todd Rundgren
+            Track: Hello It's Me
+            Album: Something/Anything?
+            Popularity: 46
+            Track Number: 22
+        
+
+
+Logged Display Help activity on Tue Nov 07 2017 19:57:53 GMT-0500 (Eastern Standard Time)
+Nothing to show
+
+Logged Retrieve Songs activity on Tue Nov 07 2017 19:58:24 GMT-0500 (Eastern Standard Time)
+StatusCodeError: 502 - {"error":{"status":502,"message":"Bad gateway."}}
+
+Logged Display Help activity on Tue Nov 07 2017 19:58:24 GMT-0500 (Eastern Standard Time)
+Nothing to show
+
+Logged Retrieve Songs activity on Tue Nov 07 2017 19:58:46 GMT-0500 (Eastern Standard Time)
+
+
+Here is information on that song!
+
+
+
+            Artist: Todd Rundgren
+            Track: Hello It's Me
+            Album: Something/Anything?
+            Popularity: 46
+            Track Number: 22
+        
+
+
+Logged Retrieve Songs activity on Tue Nov 07 2017 19:58:52 GMT-0500 (Eastern Standard Time)
+
+
+Here is information on that song!
+
+
+
+            Artist: Todd Rundgren
+            Track: Hello It's Me
+            Album: Something/Anything?
+            Popularity: 46
+            Track Number: 22
+        
+
+
